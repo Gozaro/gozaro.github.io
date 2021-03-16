@@ -1,0 +1,546 @@
+[
+  {
+    "id": 1,
+    "thumb": ["01.png"],
+    "img_home": ["01-home.png"],
+    "project_name": "True Speed",
+    "description": "An app that lets you calculate the speed of toy cars as if they were life-size.",
+    "problem": "Children increasingly play less in the real world. They prefer to play with their parents’ tablets and mobiles.",
+    "solution": "A mobile application that allows you to measure the speed of toy cars and know what speed they would reach if they were the size of a real car. Through the device’s camera, we can verify that when a toy car is propelled by a child, if its size were like that of its dad’s, it would reach up to speeds of more than 1000 kilometers per hour. An entertaining way of using your mobile to get kids to play in the physical world again.",
+    "video_case": "https://player.vimeo.com/135202742",
+    "images": [
+      {
+        "img": "0104.png"
+      },
+      {
+        "img": "01044.png"
+      },
+      {
+        "img": "0102.jpg"
+      },
+      {
+        "img": "0105.jpg"
+      },
+      {
+        "img": "0104.jpg"
+      },
+      {
+        "img": "0103.jpg"
+      },
+      {
+        "img": "0101.png"
+      }
+    ],
+    "project_type": "App",
+    "technologies": "OpenCV, React Native",
+    "role": "Idea, UX and content architecture.",
+    "client": "Mattel",
+    "agency": "Lola Madrid",
+    "prices": "Bronze – El Sol / Bronze – El ojo.",
+    "links": [
+      {
+        "description": "generacionapps.com",
+        "url": "https://generacionapps.com/mide-la-velocidad-de-tus-coches-de-juguete-con-true-speed/"
+      },
+      {
+        "description": "www.lola-mullenlowe.com/",
+        "url": "https://lola-mullenlowe.com/culture/TrueSpeedwinsTop10BestChildrenApps.html"
+      }
+    ],
+    "bgcolor": "#B2B3AD",
+    "font_color": "#000"
+  },
+  {
+    "id": 2,
+    "thumb": ["02.png"],
+    "img_home": [],
+    "project_name": "OratorIA",
+    "description": "An train an Ai to write speechs",
+    "problem": "Is difficult to make a good speech, and even more its writing.",
+    "solution": "A platform and App that worked with an AI that had the capacity to analyze the speeches of great orators, like Eva Perón, Steve Jobs or Obama, studied their linguistic personality and generated speeches. In that way, users could personalize their text on orator-ia.com and pronunciate an speech at the height of great leaders.",
+    "video_case": "https://player.vimeo.com/335088890",
+    "images": [
+      {
+        "img": "0200.png"
+      },
+      {
+        "img": "0202.jpg"
+      },
+      {
+        "img": "0203.png"
+      }
+    ],
+    "project_type": "App, Software",
+    "technologies": "Ibm Watson, Windows Azure, Cyborg Writing, Docker",
+    "role": "Creative Technology Idea",
+    "client": "Manifiesto",
+    "agency": "Manifiesto",
+    "prices": "",
+    "links": [
+      {
+        "description": "www.marketingdirecto.com",
+        "url": "https://www.marketingdirecto.com/digital-general/digital/manifiesto-lanza-oratoria"
+      },
+      {
+        "description": "www.reasonwhy.es",
+        "url": "https://www.reasonwhy.es/actualidad/discursos-inteligencia-artificial-2018"
+      }
+    ],
+    "bgcolor": "#c2c2c2",
+    "font_color": "#000"
+  },
+  {
+    "id": 3,
+    "thumb": ["03.jpg"],
+    "img_home": ["02-home.png"],
+    "project_name": "Missing Ñ",
+    "description": "The Ñ key created by Scrabble for the computers of all those Spaniards who live and work abroad. ",
+    "problem": "In recent years, many Spaniards have had to emigrate abroad. One of the most common problems they have is that the computers they encounter in their day to day life do not have our very necessary and peculiar Ñ key. ",
+    "solution": "A USB Ñ key like the Scrabble pieces, which you can carry in your pocket and connect to your computer when it does not have that very necessary key to write things like: añorar, niño or aliño. And since there are so many Spaniards around the world, we also created an app that is connected through Bluetooth to the computer and functions as the Ñ key.",
+    "video_case": "https://player.vimeo.com/224241369",
+    "images": [
+      {
+        "img": "0300.png"
+      },
+      {
+        "img": "03012.png"
+      },
+      {
+        "img": "03013.png"
+      },
+      {
+        "img": "03014.png"
+      },
+      {
+        "img": "0301.png"
+      },
+      {
+        "img": "0302.png"
+      },
+      {
+        "img": "0303.png"
+      },
+      {
+        "img": "03011.png"
+      }
+    ],
+    "project_type": " ",
+    "technologies": "Arduino",
+    "role": "Electronics, product production and UX.",
+    "client": "Mattel",
+    "agency": "Lola",
+    "prices": "Silver – El Sol / Shortlist · Cannes Lions",
+    "links": [
+      {
+        "description": "www.missingñ.com ",
+        "url": "http://www.robertoregueiro.com/sites/missingn/index_en.html"
+      }
+    ],
+    "bgcolor": "#354D43",
+    "font_color": "#fff"
+  },
+  {
+    "id": 4,
+    "thumb": ["04.jpg"],
+    "img_home": ["03-home.jpg"],
+    "project_name": "Xmas Dlights",
+    "description": "The typical Christmas lights, but with contemporary music directly from Kiss FM.",
+    "problem": "Christmas is great, but there are things about it that we do not like; one of them is the music or rather the Christmas carols.",
+    "solution": "Some Christmas tree lights that connect to your Wi-Fi router and directly stream the music from Kiss FM lighting on and off to the rhythm of the music.",
+    "video_case": "https://player.vimeo.com/140284146",
+    "images": [
+      {
+        "img": "0401.png"
+      },
+      {
+        "img": "0403.png"
+      },
+      {
+        "img": "0402.png"
+      },
+      {
+        "img": "0404.jpg"
+      },
+      {
+        "img": "0405.png"
+      }
+    ],
+    "project_type": "Product, App",
+    "technologies": "Raspberry Pi, Python",
+    "role": "Electronics, product production and UX.",
+    "client": "Kiss FM",
+    "agency": "Lola",
+    "prices": "Silver – Cannes Lions",
+    "links": [
+      {
+        "description": "www.kissfm.es/xmas-dlights/",
+        "url": "https://www.kissfm.es/xmas-dlights/"
+      }
+    ],
+    "bgcolor": "#B2B3AD",
+    "font_color": "#000"
+  },
+  {
+    "id": 5,
+    "thumb": ["05.jpg"],
+    "img_home": [],
+    "project_name": "History Worth Playing",
+    "description": "A radio spot that has a hidden video game.",
+    "problem": "Campaign to commemorate the 20th anniversary of the Berlin video game museum: Computer Spiele Museum and the 35th anniversary of the creation of ZX Spectrum.",
+    "solution": "Installation in the form of an arcade, permanently located in the museum, where you can download the game following the flow of the campaign. The transmission of the game could be obtained inside and outside the museum by tuning in, with an FM radio or a mobile phone, the pirate station where the audio was being retransmitted and, thus, get a promotional code by playing the game that could be uploaded on the machine itself. In addition, the installation contained a game that was a museum guide.",
+    "video_case": "",
+    "images": [
+      {
+        "img": "0501.png"
+      },
+      {
+        "img": "0500.jpg"
+      },
+      {
+        "img": "0503.jpg"
+      },
+      {
+        "img": "0504.jpg"
+      },
+      {
+        "img": "0505.png"
+      },
+      {
+        "img": "0506.png"
+      }
+    ],
+    "project_type": "Installation",
+    "technologies": "Arduino, Processing, Javascript",
+    "role": "UX arcade installation, electronics and application programming, as well as technical direction of the installation.",
+    "client": "Computer Spiele Museum Berlin",
+    "agency": "DDB Barcelona",
+    "prices": "Silver and Bronze – Cannes Lions / Silver – El SOL",
+    "links": [],
+    "bgcolor": "#2F2C30",
+    "font_color": "#FFF"
+  },
+  {
+    "id": 6,
+    "thumb": ["06.jpg"],
+    "img_home": [],
+    "project_name": "#welcomeBCN",
+    "description": "An installation that detects the planes that go by DDB’s window on their way to the airport and welcomes the passengers of the flight by giving them a photo through Twitter of their arrival in Barcelona by plane.",
+    "problem": "DDB’s Barcelona office is located on a 33rd floor on the beach front. Barcelona has become a tourist city to which thousands of tourists flock everyday by plane.",
+    "solution": "Through a webcam whose lens was adapted and an image analysis program connected to a real-time aerial information API, the application sent a tweet with the photo of the airplane and the flight number, so visitors to Barcelona could have a welcome gift when they arrived in Barcelona. This idea opens the door to a future App that would allow passengers to get a remote selfie, scheduling the photo through a Tweet before taking off from their home airport.",
+    "video_case": "",
+    "images": [
+      {
+        "img": "0601.png"
+      },
+      {
+        "img": "06011.jpg"
+      },
+      {
+        "img": "06011.png"
+      },
+      {
+        "img": "0602.jpg"
+      },
+      {
+        "img": "0603.png"
+      }
+    ],
+    "project_type": "Installation",
+    "technologies": "Processing, OpenCV, NodeJS",
+    "role": "Idea, Development",
+    "client": "DDB Barcelona",
+    "agency": "DDB Barcelona",
+    "prices": "",
+    "links": [
+      {
+        "description": "twitter.com/BCNPlanesDDB",
+        "url": "https//twitter.com/BCNPlanesDDB"
+      }
+    ],
+    "bgcolor": "#699188",
+    "font_color": "#333"
+  },
+  {
+    "id": 7,
+    "thumb": ["07.jpg"],
+    "img_home": [],
+    "project_name": "WakeYouApp",
+    "description": "What better way to stay awake at the wheel than by playing an entertaining quiz game.",
+    "problem": "One of the main causes of accidents is drowsiness while driving. Seat has a technology in its cars that detects when the driver falls asleep behind the wheel and alerts him with a beep. The problem is that not all cars have that technology.",
+    "solution": "An app that keeps you awake asking you questions as often as you program it to and that also allows you to compete with other players.",
+    "video_case": "https://player.vimeo.com/135202743",
+    "images": [
+      {
+        "img": "0701.jpg"
+      },
+      {
+        "img": "0702.jpg"
+      },
+      {
+        "img": "0703.jpg"
+      }
+    ],
+    "project_type": "App",
+    "technologies": "React Native",
+    "role": "Delopment, UX and content architecture.",
+    "client": "Seat",
+    "agency": "Lola",
+    "prices": "Bronze- El Sol",
+    "links": [],
+    "bgcolor": "#838488",
+    "font_color": "#000"
+  },
+
+  {
+    "id": 8,
+    "thumb": ["08.jpg"],
+    "img_home": [],
+    "project_name": "World Cup Race",
+    "description": "A slot-type car track connected to Twitter to know who the winning teams are in terms of popularity in the matches of the World Cup.",
+    "problem": "An experimental project whose objective was to visualize what happens on Twitter in a different way.",
+    "solution": "Using Arduino and Processing, we connected Twitter to a car track so that, in every match of the World Cup, we could count the hashtags of the teams that were playing in the Tweets that were being published by followers and, in this way, move the cars each time they were mentioned a certain number of times. With a counter, we counted the number of laps that each car did and we transmitted it live, so that anyone could follow the races of the World Cup as they were taking place.",
+    "video_case": "https://player.vimeo.com/139916538",
+    "images": [
+      {
+        "img": "0801.jpg"
+      },
+      {
+        "img": "0803.jpg"
+      },
+      {
+        "img": "0804.jpg"
+      },
+      {
+        "img": "0802.jpg"
+      }
+    ],
+    "project_type": " ",
+    "technologies": "Processing, Arduino",
+    "role": "Technological, electronic and programming idea.",
+    "client": "Lolahackerlab",
+    "agency": "Lola",
+    "prices": " ",
+    "links": [
+      {
+        "description": "wordcuprace site",
+        "url": "https://gonzalozaragoza.info/sites/wordcuprace/"
+      }
+    ],
+    "bgcolor": "#AFCA9C",
+    "font_color": "#000"
+  },
+  {
+    "id": 9,
+    "thumb": ["09.jpg"],
+    "img_home": [""],
+    "project_name": "Disco Skate",
+    "description": "An interactive skateboard with which you can make scratching sounds. Because the same thing happens with the skateboard as what happens with scratched records: you have to try and try again until it works.",
+    "problem": "A pilot project where, with skateboards provided by Nomad, a group of creative people created the design of the board.",
+    "solution": "Using electric piezo sensors and electronics based on Arduino, vibrations on the surface of the skateboard generate scratch sounds.",
+    "video_case": "https://player.vimeo.com/146886979",
+    "images": [
+      {
+        "img": "0901.png"
+      },
+      {
+        "img": "0902.jpg"
+      }
+    ],
+    "project_type": "Installation",
+    "technologies": "Arduino",
+    "role": "Idea, graphic design and electronics.",
+    "client": "Lolahackerlab",
+    "agency": "Lola",
+    "prices": "",
+    "links": [],
+    "bgcolor": "#B2B3AD",
+    "font_color": "#000"
+  },
+  {
+    "id": 10,
+    "thumb": ["10.jpg"],
+    "img_home": [],
+    "project_name": "Whale",
+    "description": "Generative music and graphic work using the movement of the sea.",
+    "problem": "Nowadays, technology is more accessible than ever and allows us to take creativity to new scenarios and make our lives easier. On the other hand, as human beings, we distance ourselves more and more from nature. The idea of this project was to use technology to get closer to nature and understand it better.",
+    "solution": "A generative music and art project about the sea. From a buoy located in the Mediterranean Sea, music was generated, and a unique graphic work was created several times a day, representing the condition of the sea. A buoy equipped with an accelerometer and a Smart Citizen board sends the data of sea movement via Wi-Fi to an installation located at a beach bar a few meters from the sea. Live music is generated there with these data and representative images of the condition of the sea are published on the Internet several times a day.",
+    "video_case": "",
+    "images": [
+      {
+        "img": "1001.png"
+      },
+      {
+        "img": "1002.png"
+      },
+      {
+        "img": "10011.jpg"
+      },
+      {
+        "img": "1005.jpg"
+      },
+      {
+        "img": "1003.png"
+      },
+      {
+        "img": "10012.png"
+      }
+    ],
+    "project_type": "Installation, App",
+    "technologies": "Processing, PHP, Arduino",
+    "role": "Creative direction, design and art works.",
+    "client": " ",
+    "agency": " ",
+    "prices": " ",
+    "links": [
+      {
+        "description": "whale website",
+        "url": "https:/sites "
+      },
+      {
+        "description": "Creative Applications",
+        "url": "https://www.creativeapplications.net/ontheweb/whale-generative-music-and-art-project-about-the-sea/ "
+      },
+      {
+        "description": "www.elpais.es",
+        "url": "https://blogs.elpais.com/arte-en-la-edad-silicio/2013/09/el-chiringuito-vanguardista-y-la-boya-sonora.html"
+      }
+    ],
+    "bgcolor": "#687077",
+    "font_color": "#fff"
+  },
+  {
+    "id": 11,
+    "thumb": ["11.png"],
+    "img_home": [],
+    "project_name": "Sensography",
+    "description": "A technique that makes it possible to graphically express the experience of eating. It becomes the core of the communication strategy.",
+    "problem": "Create a website to increase the bookings in the Dos Cielos restaurant located in the Hotel Me of Barcelona, ​​and promote the Torres brothers chefs.",
+    "solution": "For the Torres brothers, we created Sensography, a technique that makes it possible to graphically express the experience of eating. An interactive device connected to the Dos Cielos website makes it possible to become familiar with the menu’s dishes through Sensographies made by the diners from the restaurant in real time. ",
+    "video_case": "",
+    "images": [
+      {
+        "img": "1103.jpg"
+      },
+      {
+        "img": "11011.jpg"
+      },
+      {
+        "img": "1102.png"
+      },
+      {
+        "img": "1101.png"
+      }
+    ],
+    "project_type": "Gastronomic concept, Installation, Website",
+    "technologies": "Javascript, PHP, AS3",
+    "role": "Concept, Idea and creative direction.",
+    "client": "Meliá",
+    "agency": "Nopiun",
+    "prices": "Gold – El Sol / Gold – CDC / Winner · Best of food – The Cup / Silver – Laus / ADC*E Nominated",
+    "links": [
+      {
+        "description": "Directo al paladar",
+        "url": "https://www.directoalpaladar.com/nuevas-tendencias/sensografia-gastronomica"
+      },
+      {
+        "description": "Markarina",
+        "url": "https://www.markarina.com/sensografias-en-el-restaurante-dos-cielos/"
+      }
+    ],
+    "bgcolor": "#FEE4C5",
+    "font_color": "#000"
+  },
+  {
+    "id": 12,
+    "thumb": ["12.png"],
+    "img_home": [],
+    "project_name": "Sound Garden",
+    "description": "A device that makes plants sing so that we remember them and know when to water them.",
+    "problem": "It is quite common for us to forget the plants we have at home and, therefore, to care for them by watering them. We often consider the plants we have at home as simply decorative objects.",
+    "solution": "The idea of this experimental project is to create an interface that reminds us that the plants are there and that we have to water them. How? With a system based on a DIY humidity sensor and open source electronics that at previously programmed times of the day make the plants sing in a joyful or sad way and, in this way, know if they need us to water them.",
+    "video_case": "https://player.vimeo.com/135202742",
+    "images": [
+      {
+        "img": "1201.jpg"
+      },
+      {
+        "img": "1202.jpg"
+      },
+      {
+        "img": "1203.jpg"
+      }
+    ],
+    "project_type": "Installation",
+    "technologies": "Arduino",
+    "role": "Concept, idea and electronics.",
+    "client": "Lola Hacker Lab",
+    "agency": "Lola",
+    "prices": " ",
+    "links": [],
+    "bgcolor": "#B2B3AD",
+    "font_color": "#000"
+  },
+  {
+    "id": 13,
+    "thumb": ["13.jpg"],
+    "img_home": [],
+    "project_name": "Keep the light Alive",
+    "description": "In the acts of homage to Vicente Ferrer, we gave the audience a light that they could take with them, but that only remained lit for 5 days. A website displayed the construction of the figure of Vicente Ferrer through thousands of particles of light from the messages of condolences on the occasion of his death.",
+    "problem": "With the passing of Vicente Ferrer, they wanted to convey that the project was still alive and that this was possible thanks to everyone’s collaboration.",
+    "solution": "Under the seats of the auditorium on the day of the event, we placed some bags with boxes containing a light, which stayed lit for 5 days. In the boxes, their owners were invited to sponsor a child, or pass the box to another person as an invitation to sponsor one, before the light went out. This piece was based on the concept “Keep the Light Alive” that we created on the occasion of the death of Vicente Ferrer.",
+    "video_case": "",
+    "images": [
+      {
+        "img": "1301.jpg"
+      },
+      {
+        "img": "1302.jpg"
+      },
+      {
+        "img": "1303.jpg"
+      }
+    ],
+    "project_type": " ",
+    "technologies": "AS3, Javascript, Electronics",
+    "role": "Concept, idea and creative direction.",
+    "client": "Fundación Vicente Ferrer",
+    "agency": "Nopiun",
+    "prices": "Bronze – Laus",
+    "links": [],
+    "bgcolor": "#A2D0F4",
+    "font_color": "#000"
+  },
+  {
+    "id": 14,
+    "thumb": ["14.jpg"],
+    "img_home": [],
+    "project_name": "1€",
+    "description": "We use €1 coins of legal tender as the communication medium, leaving them on the streets of Barcelona so that people would find them and read our message.",
+    "problem": "We needed to find a striking way to communicate the concept of this NGO whose main idea was complicated to understand, and create a striking action that would make this new NGO known. Teaming enables companies to have their employees donate €1 of their payroll every month, and, in this way, in addition to doing a charitable act, they interact positively as a team and improve their relationships as co-workers. The project has evolved so that now there is an online platform for team meetings and relationships beyond the companies.",
+    "solution": "We distributed €300 in €1 coins of legal tender throughout the city of Barcelona with an adhesive on the side of the coin that was in contact with the ground that read: “You dare to be born again euro.timing.info” The press and radio gave the originality of the idea a good response. The 20-minutos newspaper covered the news the two days the action took place.",
+    "video_case": "",
+    "images": [
+      {
+        "img": "1421.png"
+      },
+      {
+        "img": "1422.png"
+      },
+      {
+        "img": "1403.jpg"
+      },
+      {
+        "img": "1404.jpg"
+      }
+    ],
+    "project_type": "Website",
+    "technologies": "AS3, HTML",
+    "role": "Concept, UX, idea and creative direction.",
+    "client": "Teaming",
+    "agency": "Nopiun",
+    "prices": " ",
+    "links": [],
+    "bgcolor": "#B2B3AD",
+    "font_color": "#000"
+  }
+]
