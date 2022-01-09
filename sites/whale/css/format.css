@@ -1,0 +1,31 @@
+
+#wrapper {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+.accordionButton {	
+	width: 800px;
+	float: left;
+	_float: none;  
+	background: #003366;
+	border-bottom: 1px solid #FFFFFF;
+	cursor: pointer;
+	}
+	
+.accordionContent {	
+	width: 800px;
+	float: left;
+	_float: none; 
+	background: #95B1CE;
+	}
+	
+
+.on {
+	background: #990000;
+	}
+	
+.over {
+	background: #CCCCCC;
+	}
